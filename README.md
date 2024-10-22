@@ -70,6 +70,28 @@ Below is the architecture of the implemented solution:
 
 ---
 
-## Repository Structure
+## Screenshots
+
+#### BI Dashboard:
+
+![global analysis](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/global_analysis_ssas_adw.jpg)
+![by region](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/region_ssas_adw.jpg)
+![by product](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/product_ssas_adw.jpg)
+![by customer](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/customers_ssas_adw.jpg)
+
+
+#### SSIS package of ETL for Source to Staging
+![source to staging](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/ERP_full_package_source_to_Staging.png)
+
+
+#### Data Warehouse star Schema
+![star schema](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/SSAS_Star_Schema_DW.png)
+
+
+#### SSIS package of ETL from staging to Datawarehouse
+![load internet sales fact](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/refresh_fact_staging_to_DW_example_internet_sales_fact.png)
+
+### Incremental refresh
+![incremental refresh](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/Incremental_load_employee_SSIS_ss.png)
 
 
