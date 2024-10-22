@@ -1,7 +1,3 @@
-# MSBI-Datawarehouse-ADW
-End-to-end Data Warehouse project using AdventureWorks database, implementing ETL with SQL Server, SSIS, SSAS, and Power BI.
-
-
 # AdventureWorks Data Warehouse Project
 
 This repository contains an end-to-end Data Warehouse solution using the **AdventureWorks** database. The project demonstrates the full lifecycle of data warehousing, from ETL (Extract, Transform, Load) processes to business intelligence reporting using **SQL Server Integration Services (SSIS)**, **SQL Server Analysis Services (SSAS)**, and **Power BI**. This project showcases how data from multiple sources is transformed into meaningful insights for business decision-making.
