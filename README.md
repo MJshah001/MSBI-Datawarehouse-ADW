@@ -91,7 +91,7 @@ Below is the architecture of the implemented solution:
 #### SSIS package of ETL from staging to Datawarehouse
 ![load internet sales fact](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/refresh_fact_staging_to_DW_example_internet_sales_fact.png)
 
-### Incremental refresh
+### Slowly Changing Dimension
 ![incremental refresh](https://github.com/MJshah001/MSBI-Datawarehouse-ADW/blob/main/Resources/Incremental_load_employee_SSIS_ss.png)
 
 
